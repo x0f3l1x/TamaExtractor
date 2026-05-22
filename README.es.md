@@ -2,6 +2,10 @@
 
 📖 [English](README.md) · **Español**
 
+
+<img width="2400" height="2400" alt="tama_extractor_linkedin_hw" src="https://github.com/user-attachments/assets/308e64ee-8e40-442c-8396-12441d667794" />
+
+
 Writeup y herramienta para entender cómo se almacenan los gráficos (sprites) en el
 firmware del **Tamagotchi Smart** (2022), y cómo extraerlos a PNG a partir de un
 volcado de tu propia flash.
