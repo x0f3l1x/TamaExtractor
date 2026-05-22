@@ -1,5 +1,8 @@
 # TamaExtractor — Reversing del sprite pack del Tamagotchi Smart
 
+<img width="2400" height="2400" alt="tama_extractor_linkedin_hw" src="https://github.com/user-attachments/assets/9aab3fdb-bb2d-4cca-a793-f4868b202d39" />
+
+
 Writeup y herramienta para entender cómo se almacenan los gráficos (sprites) en el
 firmware del **Tamagotchi Smart** (2022), y cómo extraerlos a PNG a partir de un
 volcado de tu propia flash.
