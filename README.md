@@ -244,12 +244,8 @@ walkthrough pedagógico. Todo el mérito del descubrimiento del formato es suyo:
 - Documentación del data format y guías de la comunidad:
   <https://zenzoa.com/pocketfriends/tama-smart.html>
 
-Si este writeup te resultó útil, ve a darle una estrella a su repo. 🌟
+Si este writeup te resultó útil, ve a darle una estrella. 🌟
 
-## Qué hay y qué no hay en este repo
-
-✅ **Sí:** código de extracción, documentación del formato, este writeup.
-❌ **No:** ningún volcado de firmware, ninguna ROM, ningún sprite de Bandai.
 
 Reversear un dispositivo que es tuyo para entenderlo e interoperar es una actividad
 legítima y habitual en la comunidad. Redistribuir la ROM o los gráficos de la marca
