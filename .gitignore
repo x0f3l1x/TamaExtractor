@@ -1,0 +1,30 @@
+# ⚠️ Nunca subas el firmware ni los assets de Bandai
+*.bin
+*.rom
+*.img
+*.smc
+*.tamasma
+
+# Sprites / assets extraídos (propiedad intelectual de Bandai)
+sprites/
+output/
+extracted/
+*.png
+*.gif
+*.bmp
+# (si quieres incluir capturas para el README, mételas en docs/ y fuérzalas:
+#  git add -f docs/captura.png)
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+*.egg-info/
+
+# Sistema operativo / editores
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
